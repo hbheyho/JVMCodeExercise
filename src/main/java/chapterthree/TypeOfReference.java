@@ -1,4 +1,4 @@
-package chapterthree.exercise;
+package chapterthree;
 
 import java.lang.ref.PhantomReference;
 import java.lang.ref.ReferenceQueue;

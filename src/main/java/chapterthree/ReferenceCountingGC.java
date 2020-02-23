@@ -1,6 +1,4 @@
-package chapterthree.exercise;
-
-import java.lang.ref.SoftReference;
+package chapterthree;
 
 /**
  * @Author: HB

@@ -1,4 +1,4 @@
-package chapterthree.exercise;
+package chapterthree;
 
 /**
  * @Author: HB
