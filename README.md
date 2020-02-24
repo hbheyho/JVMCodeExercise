@@ -1,5 +1,3 @@
-# JVMCodeExercise
-The Exercise of
 # 《深入理解JAVA虚拟机》学习
 ## 描述
 《深入理解JAVA虚拟机》课程代码练习和实战部分练习。
